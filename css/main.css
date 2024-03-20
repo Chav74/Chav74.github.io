@@ -20,3 +20,9 @@ p{
   color: black;
   font-size: 12pt;
 }
+
+ul{
+  color: red;
+  padding: 3px;
+
+}
