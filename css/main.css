@@ -21,7 +21,7 @@ a{
 }
 
 p{
-  color: black;
+  color: darkorange;
   font-size: 12pt;
 }
 
@@ -36,7 +36,6 @@ ol{
 button{
   width: 10%;
   height:auto;
-
-
 }
+
 
