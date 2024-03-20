@@ -12,6 +12,10 @@ h1{
   color: ##222b36;
   font-weight: bold;
 }
+h2{
+  color: darkgreen;
+  text-decoration: underline;
+}
 a{
   color:#f0b1b9;
 }
@@ -26,3 +30,7 @@ ul{
   padding: 3px;
 
 }
+ol{
+  color: darkgreen;
+}
+
