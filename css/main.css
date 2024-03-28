@@ -35,6 +35,9 @@ ul{
   padding: 3px;
 
 }
+li{
+  color: black
+}
 ol{
   color: darkgreen;
 }
