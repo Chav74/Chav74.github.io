@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <meta charset = "UTF-8">
+    <title>Google BACS200 Search</title>
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+    <h1>Animals On A Farm </h1>
+    <form action = "https://www.google.com/search" method="GET">
+      <p>
+        <label for= "selectAnimals"> Select a Farm Animal</label>
+        <select name="q" id="selectAnimals">
+            <option value="Horse">Horse </option>
+            <option value="Cow"> Cow </option>
+            <option value="Chicken">Chicken </option>
+            <option value="Pig">Pig </option>
+            <option value="Sheep">Sheep </option>
+        </select>
+      </p>
+      
+      <p>
+        <label> Images</label>
+        <input type="checkbox" name="tbm" value=" isch" id="imagecheck">
+      </p>
+      <p>
+        <input type = "submit">
+      </p>
 
+
+    </form>
+  </body>
+</html>
