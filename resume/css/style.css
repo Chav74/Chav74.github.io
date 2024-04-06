@@ -14,5 +14,18 @@ h1 {
    }
 nav
 {
-    border: 7px red solid;
+    border: 7px solid red;
+    padding: 25 px;
+}
+section
+{
+    border: 5px solid blue;
+    margin: 5px;
+    margin-top: 50px;
+    padding: 20px;
+}
+.date{
+
+  color: green
+
 }
