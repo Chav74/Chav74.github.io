@@ -18,11 +18,11 @@ h1{
   font-weight: bold;
 }
 h2{
-  color: darkgreen;
+  color: green;
   text-decoration: underline;
 }
 a{
-  color:red;
+  color: red;
 }
 
 p{
@@ -43,7 +43,7 @@ ol{
 }
 button{
   width: 10%;
-  height:auto;
+  height: auto;
 }
 
 
