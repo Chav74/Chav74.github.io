@@ -12,7 +12,8 @@ img{
   border-radius: 10px;
   opacity:100%;
   filter: 75%;
-  height: 25%;
+  height: auto;
+  margin: 20;
 }
 h1{
   color: #9da068;
