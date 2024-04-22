@@ -11,27 +11,19 @@
                 height: 14vw;
             }
             table{
-                display:flex;
-                flex-wrap:wrap;
+                
                 border: .7vw solid black;
                 border-collapse: collapse;
                 padding: 1vw;
                 width:100%;
 
             }
-            tr{
-             display: flex;
-             flex-wrap: wrap;
-             width:100%
-
-
-            }
-            th, td{
+           td{
          
                 border: .14vw dotted black;
                 padding: .7vw;
                 text-align:center;
-                box-sizing: border-box;
+            
                 
 
             }
@@ -39,13 +31,16 @@
             {
                 background-color: goldenrod
             }
-            @media( max-width: 750px){
+            @media( max-width: 360px){
+                .heropic{
+                    height: 14 vw;
+                    }
                 table{
-                    grid-template-columns: auto auto;
+                    font-size: 3vw;
                 }
-
-
-            }
+                td{
+                    padding: 0.3 vw;
+                }
 
         </style>
 </head>
