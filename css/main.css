@@ -25,10 +25,13 @@ p{
   color: darkorange;
   font-size: .83vw;
 }
-
+*{
+  text-align: center;
+}
 ul{
-  color: white;
-  padding: 1.6vw;
+  width: 20 vw;
+  margin: auto;
+  list-stule-type: none;
 
 }
 li{
