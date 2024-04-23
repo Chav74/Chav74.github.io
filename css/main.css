@@ -4,9 +4,6 @@ header{
   text-align: center;
   background-color: #f8f8f8;
 }
-body{
-  background-color: #b1d6f0;
-}
 img{
   width: 25%;
   border-radius: 10px;
@@ -47,5 +44,9 @@ a img{
   width: 10%;
   height: auto;
 }
+:root{
+  background-color: gray;
+  color: blue;
 
+}
 
