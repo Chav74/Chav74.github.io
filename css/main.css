@@ -10,11 +10,8 @@ img{
   opacity:100%;
   filter: 75%;
   height: auto;
-  margin: 20;
-}
-h1{
-  color: #9da068;
-  font-weight: bold;
+  margin: auto:
+  display: block;
 }
 h2{
   color: green;
@@ -49,4 +46,20 @@ a img{
   color: blue;
 
 }
+.title{
+  color:#9da068;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align:center;
 
+}
+section :hover{
+  background-color: gold
+
+}
+.footnot{
+  fomnt-style: italic;
+  text-align: center;
+  margin-top: 100px;
+
+}
